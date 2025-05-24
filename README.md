@@ -1,4 +1,4 @@
-## Hi there 👋 This is Howie.
+## Hi there 👋 This is Howie Lee.
 
 <!--
 **HowiePix/HowiePix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
