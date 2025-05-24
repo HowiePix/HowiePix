@@ -20,3 +20,5 @@ I am Howie.
 
 
 [![Howie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowiePix)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowiePix)](https://github.com/anuraghazra/github-readme-stats)
