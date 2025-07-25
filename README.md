@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 ### About Me
 
-* I am a Master of Science candidate of Peking University
+* I am a Master of Peking University.
 * Now, I am interested in Generative AI.
 
+### Working Experience
+
+* [Shopee](https://shopee.com) 算法工程师 📌 2025.7 - Now
 
 [![Howie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowiePix)](https://github.com/anuraghazra/github-readme-stats)
 
