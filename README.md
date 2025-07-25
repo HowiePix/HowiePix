@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 * [Shopee](https://shopee.com) 算法工程师 📌 2025.7 - Now
 
+
+### Stats
+
 [![Howie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowiePix)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowiePix)](https://github.com/anuraghazra/github-readme-stats)
