@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 
 ### Working Experience
 
-* [Shopee](https://shopee.com) 算法工程师 📌 2025.7 - Now
+- [Shopee](https://shopee.com) 📌 2024.6 - 2024.9
+  - 岗位：算法实习生
 
+- [Shopee](https://shopee.com) 📌 2025.7 - Now
+  - 岗位：算法工程师
 
 ### Stats
 
